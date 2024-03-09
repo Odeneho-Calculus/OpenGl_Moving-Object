@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1708080748 source:c:\users\calcu\desktop\cg samples\opengl\moving_object\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	<openGL/openGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
